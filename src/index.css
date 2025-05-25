@@ -1,0 +1,17 @@
+@import 'open-props/normalize.min.css';
+@import 'open-props/open-props.min.css';
+@import 'open-props/buttons.min.css';
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--surface-1, #fafafa);
+  color: var(--text-1, #111);
+  font-family: 'Inter', sans-serif;
+  transition: none !important;
+}
+input, button {
+  font: inherit;
+  outline: none;
+  border: none;
+}

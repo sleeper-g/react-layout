@@ -1,0 +1,6 @@
+.servicesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--size-5);
+  justify-content: center;
+}
