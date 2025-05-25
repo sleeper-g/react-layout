@@ -1,4 +1,13 @@
 import "./SearchPanel.css";
+/**
+ * A compact search bar component with logo, input, and submit button.
+ * Typically used in a header or search interface.
+ *
+ * @component
+ *
+ * @example
+ * <SearchBar />
+ */
 export const SearchPanel = () => {
 
     return (
